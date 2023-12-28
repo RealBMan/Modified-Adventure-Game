@@ -1,0 +1,41 @@
+BIRD
+a water bird
+1
+
+CHEST
+a pirate chest
+2
+
+BOOK
+a copy of an illuminated manuscript
+3
+
+Weapon
+GUN
+an old red pistol
+3
+25
+
+Weapon
+Sword
+an ancient medieval sword
+4
+15
+
+Weapon
+Sword
+an ancient medieval sword
+10
+35
+
+Weapon
+club
+a blunt piece of wood
+5
+25
+
+HealthPack
+MINI
+a small potion granting 25 health points
+1
+25
