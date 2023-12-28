@@ -1,0 +1,10 @@
+/shelf/
+/workspace.xml
+.*/
+out/
+*.xml
+*.iml
+*.log
+*.class
+.idea/
+.DS_Store
